@@ -106,7 +106,7 @@ func DisplayRepoInfo(options *common.Options, repoInfo RepoInfo) {
 		colored(fmt.Sprintf("[last release=%s] ", repoInfo.LastRelease.Format(dateStr)))
 	}
 
-	if options.LastCommit && !repoInfo.LastCommit.IsZero() {
+	if options.LastCommit {
 		colored(fmt.Sprintf("[last commit=%s] ", repoInfo.LastCommit.Format(dateStr)))
 	}
 

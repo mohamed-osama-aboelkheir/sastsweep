@@ -20,9 +20,7 @@ func DownloadSource(client *http.Client, targetURL string, branch string, outDir
 		return "", errors.New("download path outside of output directory")
 	}
 
-	logger.Debug("Checking if " + outPath + " exists")
 	if _, err := os.Stat(outPath); err == nil {
-		logger.Debug(outPath + " DOES exist, removing...")
 		os.RemoveAll(outPath)
 		os.Exit(1)
 	}
