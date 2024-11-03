@@ -46,6 +46,10 @@ sastsweep -repos targets.txt -stars -lang -forks -contributors -filter-last-comm
 
 # Installation
 Linux is currently the only supported and tested platform
+`sastsweep` requires go >= 1.23 to install successfully. Run the following command to install `sastsweep`
+```sh
+go install github.com/chebuya/sastsweep/cmd/sastsweep@latest
+```
 
 # Usage
 
