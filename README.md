@@ -18,7 +18,7 @@
   <a href="#usage">Usage</a>
 </p>
 
-<video src="https://github.com/chebuya/sastsweep/raw/refs/heads/main/poc.mp4" autoplay muted loop playsinline style="max-width: 100%;"></video>
+<video src="https://github.com/user-attachments/assets/bda95efd-07ee-46f3-82f0-b37e229ac352" autoplay muted loop playsinline style="max-width: 100%;"></video>
 
 `sastsweep` is a tool designed for identifying vulnerabilities in open source codebases at scale. It can gather and filter on key repository metrics such as popularity and project size, enabling targeted vulnerability research. It automatically detects potential vulnerabilities using semgrep and provides a streamlined HTML report, allowing researchers to quickly drill down to the affected portion of the codebase.
 
