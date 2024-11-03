@@ -1,4 +1,4 @@
-module sastsweep
+module github.com/chebuya/sastsweep
 
 go 1.23
 
