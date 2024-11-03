@@ -5,14 +5,15 @@ import (
 	"net/http"
 	"os"
 	"os/signal"
-	"sastsweep/common"
-	"sastsweep/common/logger"
-	"sastsweep/common/report"
-	"sastsweep/common/sastsweep"
 	"strconv"
 	"strings"
 	"sync"
 	"syscall"
+
+	"github.com/chebuya/sastsweep/common"
+	"github.com/chebuya/sastsweep/common/logger"
+	"github.com/chebuya/sastsweep/common/report"
+	"github.com/chebuya/sastsweep/common/sastsweep"
 
 	"github.com/fatih/color"
 )

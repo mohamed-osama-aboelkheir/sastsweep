@@ -4,9 +4,10 @@ import (
 	"bufio"
 	"os"
 	"regexp"
-	"sastsweep/common/logger"
 	"slices"
 	"strings"
+
+	"github.com/chebuya/sastsweep/common/logger"
 )
 
 const githubUrlRegex = `\b^(https?://)?github.com/(?:[A-Za-z0-9-]+\.?)*[A-Za-z0-9-]+/(?:[A-Za-z0-9-]+\.?)*[A-Za-z0-9-]+$\b`

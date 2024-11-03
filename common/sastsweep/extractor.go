@@ -5,11 +5,12 @@ import (
 	"errors"
 	"fmt"
 	"net/http"
-	"sastsweep/common"
-	"sastsweep/common/logger"
 	"strconv"
 	"strings"
 	"time"
+
+	"github.com/chebuya/sastsweep/common"
+	"github.com/chebuya/sastsweep/common/logger"
 
 	"github.com/PuerkitoBio/goquery"
 )

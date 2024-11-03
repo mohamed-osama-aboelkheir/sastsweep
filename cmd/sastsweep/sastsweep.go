@@ -3,13 +3,14 @@ package main
 import (
 	"os"
 	"os/signal"
-	"sastsweep/common/feed"
-	"sastsweep/common/logger"
-	"sastsweep/common/sastsweep"
-	"sastsweep/runner"
 	"strings"
 	"sync"
 	"syscall"
+
+	"github.com/chebuya/sastsweep/common/feed"
+	"github.com/chebuya/sastsweep/common/logger"
+	"github.com/chebuya/sastsweep/common/sastsweep"
+	"github.com/chebuya/sastsweep/runner"
 )
 
 func main() {

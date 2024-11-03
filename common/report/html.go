@@ -3,7 +3,8 @@ package report
 import (
 	"html/template"
 	"os"
-	"sastsweep/common/logger"
+
+	"github.com/chebuya/sastsweep/common/logger"
 
 	"github.com/google/uuid"
 )

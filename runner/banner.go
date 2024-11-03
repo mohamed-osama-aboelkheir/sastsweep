@@ -2,7 +2,8 @@ package runner
 
 import (
 	"fmt"
-	"sastsweep/common/logger"
+
+	"github.com/chebuya/sastsweep/common/logger"
 )
 
 const banner = `  ___   _   ___ _____                       

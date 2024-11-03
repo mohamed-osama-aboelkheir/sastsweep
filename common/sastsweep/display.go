@@ -3,10 +3,11 @@ package sastsweep
 import (
 	"fmt"
 	"path/filepath"
-	"sastsweep/common"
-	"sastsweep/common/logger"
 	"strconv"
 	"strings"
+
+	"github.com/chebuya/sastsweep/common"
+	"github.com/chebuya/sastsweep/common/logger"
 
 	"github.com/fatih/color"
 	"github.com/savioxavier/termlink"

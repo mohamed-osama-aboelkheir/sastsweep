@@ -5,9 +5,10 @@ import (
 	"net/http"
 	"os"
 	"path/filepath"
-	"sastsweep/common"
-	"sastsweep/common/logger"
 	"strings"
+
+	"github.com/chebuya/sastsweep/common"
+	"github.com/chebuya/sastsweep/common/logger"
 )
 
 func DownloadSource(client *http.Client, targetURL string, branch string, outDir string) (string, error) {

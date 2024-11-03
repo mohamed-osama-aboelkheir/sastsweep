@@ -7,10 +7,11 @@ import (
 	"os/exec"
 	"os/signal"
 	"path/filepath"
-	"sastsweep/common"
-	"sastsweep/common/logger"
 	"strings"
 	"syscall"
+
+	"github.com/chebuya/sastsweep/common"
+	"github.com/chebuya/sastsweep/common/logger"
 
 	"github.com/google/uuid"
 )

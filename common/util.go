@@ -11,10 +11,11 @@ import (
 	"os"
 	"path/filepath"
 	"runtime"
-	"sastsweep/common/logger"
 	"strconv"
 	"strings"
 	"syscall"
+
+	"github.com/chebuya/sastsweep/common/logger"
 )
 
 const userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"

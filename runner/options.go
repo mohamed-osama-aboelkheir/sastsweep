@@ -4,9 +4,10 @@ import (
 	"flag"
 	"os"
 	"path/filepath"
-	"sastsweep/common"
-	"sastsweep/common/logger"
 	"strings"
+
+	"github.com/chebuya/sastsweep/common"
+	"github.com/chebuya/sastsweep/common/logger"
 )
 
 func ParseOptions() *common.Options {
