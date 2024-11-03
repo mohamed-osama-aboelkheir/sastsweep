@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/user-attachments/assets/6abe0ae7-ab06-4ae6-961c-aa4ae898b1a8" alt="sastsweep" width="500px" height=auto>
+  <img src="https://github.com/user-attachments/assets/df749c65-3709-43ac-a76d-685681132e2b" alt="sastsweep" width="500px" height=auto>
   <br>
 </h1>
 
