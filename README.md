@@ -148,6 +148,14 @@ Usage of ./sastsweep:
   -watchers
     	Display the number of watchers in a repository
 ```
+
+# Roadmap
+- Write more docs
+- Cross-platform support
+- More matchers/filters
+- More testing
+- CodeQL support
+
 # Acknowledgements
 Thanks to all the devs of <a href="https://github.com/semgrep/semgrep">@semgrep/semgrep</a>, this tool would be impossible without it <br>
 Inspired by <a href="https://github.com/projectdiscovery/httpx">@projectdiscovery/httpx</a> 🩷 <br>
