@@ -2,7 +2,12 @@
 
 ## Reporting a Vulnerability
 
-If you find a vulnerability in sastsweep and would like to report it (thank you 🙏), please DM me on Twitter [@_chebuya](https://x.com/_chebuya).
+If you find a vulnerability in sastsweep and would like to report it (thank you 🙏), please DM me on Twitter [@_chebuya](https://x.com/_chebuya)
+
+Also consider sumbitting a security report here: it was prevent a lot of the initial back and forth
+
+![image](https://github.com/user-attachments/assets/db41c09c-d6a3-4dfe-8f89-d5dfb30555bc)
+
 
 The main security concern I have with this tool are malicious repositories.
 
