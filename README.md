@@ -5,7 +5,7 @@
 
 <p align="center">
 <a href="https://opensource.org/license/agpl-v3"><img src="https://img.shields.io/badge/license-GPLv3-blue"></a>
-<a href="https://goreportcard.com/badge/github.com/chebuya/SASTsweep"><img src="https://goreportcard.com/badge/github.com/chebuya/SASTsweep"></a>
+<a href="https://goreportcard.com/badge/github.com/chebuya/sastsweep?style=flat-square"><img src="https://goreportcard.com/badge/github.com/chebuya/sastsweep?style=flat-square"></a>
 <a href="https://github.com/chebuya/SASTsweep/releases"><img src="https://img.shields.io/github/release/chebuya/SASTsweep"></a>
 <a href="https://x.com/_chebuya"><img src="https://img.shields.io/twitter/follow/_chebuya.svg?logo=twitter"></a>
 <a href="https://img.shields.io/github/stars/chebuya/SASTsweep"><img src="https://img.shields.io/github/stars/chebuya/SASTsweep"></a>
