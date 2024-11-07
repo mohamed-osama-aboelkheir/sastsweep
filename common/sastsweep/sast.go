@@ -98,7 +98,7 @@ func RunSemgrep(sourcePath string, outDir string) (SemgrepJson, error) {
 
 	semgrepOutFile := outDir + "/output-" + uuid.New().String() + ".json"
 
-	args := []string{"--json", "--output", semgrepOutFile}
+	args := []string{"--json", "--config", "p/python", "--output", semgrepOutFile}
 	args = append(args, semgrepConfig...)
 	args = append(args, sourcePath)
 
