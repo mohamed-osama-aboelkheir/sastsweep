@@ -1,4 +1,4 @@
-module github.com/chebuya/sastsweep
+module github.com/mohamed-osama-aboelkheir/sastsweep
 
 go 1.23
 
